@@ -1,0 +1,15 @@
+FECHA 1:
+Equipo A;Goles A;Goles B;Equipo B;Ganador;Partido
+Boca    ;1      ;0      ;Huracan ;Boca   ;1
+Racing  ;2      ;4      ;River   ;River  ;2
+
+
+FECHA 2:
+Equipo A;Goles A;Goles B;Equipo B;Ganador;Partido
+Boca    ;3      ;2      ;River   ;Boca   ;1
+Racing  ;3      ;2      ;Huracan ;Racing ;2
+ 
+FECHA 3:
+Equipo A;Goles A;Goles B;Equipo B;Ganador;Partido
+Boca    ;3      ;1      ;Racing  ;Boca   ;1
+River   ;2      ;1      ;Huracan ;River  ;2
